@@ -73,7 +73,7 @@ fieldset p {
     width: 20px;
     height: 20px;
 }
-.i1, .i2, .i3 {
+.i1, .i2, .i3, .i4 {
     margin: 5px;
 }
 @media (min-height: 1000px) {
