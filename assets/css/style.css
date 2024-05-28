@@ -42,7 +42,7 @@ fieldset p {
     width: 165px;
 }
 .button {
-    margin :10px;
+    margin-left: 5px;
     padding: 5px;
     background-color: #00000000;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
