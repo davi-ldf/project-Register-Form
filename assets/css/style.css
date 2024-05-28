@@ -75,6 +75,15 @@ fieldset p {
 .i1, .i2, .i3 {
     margin: 5px;
 }
-@media (max-width: 700px) {
+@media (min-height: 1000px) {
+    .container {
+        width: 100%;
+        margin: auto;
+        max-width: 200px;
+        border-radius: 20px;
+        padding-left: 100px;
+        padding-right: 100px;
+        margin-top: 150px;
+    }
 
 }
