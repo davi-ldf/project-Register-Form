@@ -15,6 +15,7 @@ body {
     border-radius: 20px;
     padding-left: 100px;
     padding-right: 100px;
+    margin-top: 50px;
 }
 fieldset {
     width: 300px;
@@ -39,4 +40,36 @@ fieldset p {
 }
 .date {
     width: 165px;
+}
+.button {
+    margin :10px;
+    padding: 5px;
+    background-color: #00000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.792);
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    font-family: Helvetica;
+    font-size: 14px;
+    margin-top: 150px;
+    margin-left: 0px;
+}
+.icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer img {
+    width: 20px;
+    height: 20px;
+}
+.i1, .i2, .i3 {
+    margin: 5px;
 }
