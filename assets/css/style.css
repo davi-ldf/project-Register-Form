@@ -4,6 +4,8 @@
 body {
     box-sizing: border-box;
     background-color: #000;
+    display: flex;
+    flex-direction: column;
 }
 .container {
     width: 100%;
@@ -72,4 +74,7 @@ fieldset p {
 }
 .i1, .i2, .i3 {
     margin: 5px;
+}
+@media (max-width: 700px) {
+
 }
